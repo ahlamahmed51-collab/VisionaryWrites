@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://visionarywrites.pages.dev/sitemap.xml
